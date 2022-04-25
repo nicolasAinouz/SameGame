@@ -1,3 +1,3 @@
 # SameGame
 
-Le fichier .jar est disponible [ici](https://github.com/nicolasAinouz/SameGame/blob/main/SameGame1.8.jar)
+Le fichier .jar est disponible [ici](https://github.com/nicolasAinouz/SameGame/blob/main/SameGame1.8.jar?raw=true)
