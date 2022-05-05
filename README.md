@@ -8,3 +8,6 @@ Un bug a été trouvé recemment sur l'archive jar lorsque je l'ai passé en ver
 
 
 La musique du générique de Pokémon se lance lorsqu'on commence une partie. Malheuresement, nous avons j'ai du la retirer sur GitHub pour des soucis de place.
+
+
+Le code peut être amélioré, par exemple en optant pour une arborescence MVC.
