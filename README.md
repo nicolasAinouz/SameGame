@@ -7,4 +7,4 @@ Le fichier .jar est disponible [ici](https://github.com/nicolasAinouz/SameGame/b
 Un bug a été trouvé recemment sur l'archive jar lorsque je l'ai passé en version 1.8 le pokémon reptincel n'apparaît pas.
 
 
-La musique du générique de Pokémon se lance lorsqu'on lance une partie. Malheuresement, nous avons j'ai du la retirer sur GitHub pour des soucis de place.
+La musique du générique de Pokémon se lance lorsqu'on commence une partie. Malheuresement, nous avons j'ai du la retirer sur GitHub pour des soucis de place.
